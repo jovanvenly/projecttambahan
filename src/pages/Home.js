@@ -8,9 +8,7 @@ const Home = () => {
     return(
     <>
         <Navigation />
-        <Header />
         <Ecommerce />
-        <Footer />
     </>
     );
 }
